@@ -1,0 +1,3 @@
+{
+	"mongodburl" : "(function() {return process.env.DB_URL})();"
+}

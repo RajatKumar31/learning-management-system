@@ -1,0 +1,17 @@
+# Ignore all node_modules folders
+**/node_modules/
+
+# Ignore all .env files
+**/.env
+
+# Ignore build outputs
+**/.next/
+**/dist/
+**/build/
+
+# OS / Editor files
+.DS_Store
+*.log
+
+# If any frontend still has its own .git folder accidentally recreated
+**/.git/
